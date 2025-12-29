@@ -36,6 +36,7 @@ The project is built as a microservices architecture using Docker.
 - **Embeddings:** HuggingFace `all-MiniLM-L6-v2` (Local CPU inference).
 
 ---
+<img width="1894" height="933" alt="Image" src="https://github.com/user-attachments/assets/f70a3661-ede5-4c92-bd3e-cddcd35afca9" />
 
 ## 📂 Project Structure
 
@@ -51,3 +52,4 @@ rag-optimizer/
 │   └── Dockerfile         # Frontend Container Config
 ├── requirements.txt       # Dependencies
 └── README.md
+<img width="1894" height="933" alt="Image" src="https://github.com/user-attachments/assets/f70a3661-ede5-4c92-bd3e-cddcd35afca9" />
